@@ -1,6 +1,6 @@
-# Welcome to My Portfolio
+# Welcome to My Portfolio 
 
-Hi, I'm Anthony — and this is my personal website.
+Hi, I'm Anthony and and this is my personal Geo-Information Science visualization portfolio.
 
 ## Projects
 - **Geoscripting**
