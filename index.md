@@ -3,9 +3,12 @@
 Hi, I'm Anthony — and this is my personal website.
 
 ## Projects
-- Project 1
-- Project 2
-- Project 3
+- **Geoscripting**
+  - Visualization
+- **Advanced Earth Observation**
+  - Visualization
+- **Machine Learning Visualization**
+  - Visualization
 
 ## About Me
 I am a student Geo-Information Science at Wageningen Univeristy and Research.
