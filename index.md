@@ -7,7 +7,7 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
   - Visualization
 - **Advanced Earth Observation**
   - Visualization
-- **Machine Learning Visualization**
+- **Machine Learning**
   - Visualization
 
 ## About Me
