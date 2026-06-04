@@ -3,7 +3,7 @@
 Hi, I'm Anthony and this is my personal Geo-Information Science visualization portfolio.
 
 ## Projects
--**GIS in Context**
+- **GIS in Context**
 <iframe 
   src="https://storymaps.arcgis.com/stories/ce489e2e22ec4f99ad9da8d86ff3ccf0"
   width="100%" 
