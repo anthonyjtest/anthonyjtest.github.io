@@ -7,7 +7,7 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
 <iframe 
   src="https://storymaps.arcgis.com/stories/ce489e2e22ec4f99ad9da8d86ff3ccf0"
   width="100%" 
-  height="900px" 
+  height="450px" 
   style="border:none;">
 </iframe>
 
