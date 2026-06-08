@@ -17,9 +17,8 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
 
 
 - **Remote Sensing and GIS Integration**
-<video width="400" controls>
+<video width="600" controls>
   <source src="lidarvideo.mp4" type="video/mp4">
-
 </video>
 
 - ## About Me
