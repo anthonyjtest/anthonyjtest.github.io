@@ -4,6 +4,7 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
 
 ## Projects
 - **GIS in Context**
+- 
 <iframe 
   src="https://storymaps.arcgis.com/stories/ce489e2e22ec4f99ad9da8d86ff3ccf0"
   width="100%" 
@@ -11,13 +12,17 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
   style="border:none;">
 </iframe>
 
-- **Geoscripting**
-  - Visualization
 
 - **Machine Learning**
+- 
 ![Mijn Afbeelding](MachineLearningLandCoverMap.png)
 
-## About Me
+
+- **Remote Sensing and GIS Integration**
+- 
+![Mijn Afbeelding](lidarvideo.mp4)
+
+- ## About Me
 I am a student Geo-Information Science at Wageningen Univeristy and Research.
 
 ## Contact
