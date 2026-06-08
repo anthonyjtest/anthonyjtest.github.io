@@ -11,13 +11,13 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
   width="100%" 
   height="450px" 
   style="border:none;">
-</iframe> <br><br><br>
+</iframe> <br><br>
 
 
 - **Machine Learning**
   The image underneath is created during a project for the machine learning course. The image is the output from a K-Nearest-Neighbor model (k=15).
   
-![Mijn Afbeelding](MachineLearningLandCoverMap.png) <br><br><br>
+![Mijn Afbeelding](MachineLearningLandCoverMap.png) <br><br>
 
 
 - **Remote Sensing and GIS Integration**
@@ -25,7 +25,7 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
   
 <video width="400" controls>
   <source src="lidarvideo.mp4" type="video/mp4">
-</video> <br><br><br>
+</video> <br><br>
 
 
 
