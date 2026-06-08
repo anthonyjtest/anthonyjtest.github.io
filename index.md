@@ -4,20 +4,20 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
 
 ## Projects
 - **GIS in Context**
-  During the GIS in Context course I worked on a group assignment. We created a storymap about urban heat islands in Houtston, Texas.
+  During the GIS in Context course I worked on a group assignment. We created a storymap about urban heat islands in Houtston, Texas. 
   
 <iframe 
   src="https://storymaps.arcgis.com/stories/ce489e2e22ec4f99ad9da8d86ff3ccf0"
   width="100%" 
   height="450px" 
   style="border:none;">
-</iframe>
+</iframe> <br><br><br>
 
 
 - **Machine Learning**
   The image underneath is created during a project for the machine learning course. The image is the output from a K-Nearest-Neighbor model (k=15).
   
-![Mijn Afbeelding](MachineLearningLandCoverMap.png)
+![Mijn Afbeelding](MachineLearningLandCoverMap.png) <br><br><br>
 
 
 - **Remote Sensing and GIS Integration**
@@ -25,7 +25,7 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
   
 <video width="400" controls>
   <source src="lidarvideo.mp4" type="video/mp4">
-</video>
+</video> <br><br><br>
 
 
 
