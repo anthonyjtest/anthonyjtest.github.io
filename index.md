@@ -17,14 +17,14 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
 - **Machine Learning**
   The image underneath is created during a project for the machine learning course. The image is the output from a K-Nearest-Neighbor model (k=15).
   
-![Mijn Afbeelding](MachineLearningLandCoverMap.png) <br><br>
+![Mijn Afbeelding](Visualizations/MachineLearningLandCoverMap.png) <br><br>
 
 
 - **Remote Sensing and GIS Integration**
   During the Remote Sensing and GIS Integration course I worked together in a team to work on a project. We collected our own lidar data to create a hiking trail. 
   
 <video width="400" controls>
-  <source src="lidarvideo.mp4" type="video/mp4">
+  <source src="Visualizations/lidarvideo.mp4" type="video/mp4">
 </video> <br><br>
 
 
