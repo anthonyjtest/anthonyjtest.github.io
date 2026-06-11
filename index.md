@@ -30,7 +30,7 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
 
 
 ## About Me
-I am a student Geo-Information Science at Wageningen Univeristy and Research.
+I am a MSc student Geo-Information Science at Wageningen Univeristy and Research.
 
 ## Contact
 You can reach me at: www.linkedin.com/in/anthony-jansen-aj
