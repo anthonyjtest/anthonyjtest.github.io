@@ -30,7 +30,7 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
 
 
 ## About Me
-I am a MSc student Geo-Information Science at Wageningen Univeristy and Research.
+I am a MSc student Geo-Information Science at Wageningen University and Research. During my study I focus on the implementation of machine learning in earth observation. 
 
 ## Contact
 You can reach me at: www.linkedin.com/in/anthony-jansen-aj
