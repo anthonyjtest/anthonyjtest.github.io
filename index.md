@@ -29,7 +29,7 @@ Hi, I'm Anthony and this is my personal Geo-Information Science visualization po
 
 
 
-- ## About Me
+## About Me
 I am a student Geo-Information Science at Wageningen Univeristy and Research.
 
 ## Contact
